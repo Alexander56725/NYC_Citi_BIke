@@ -28,3 +28,5 @@ For both customers and subscribers, birth year prevalence was most heavy when th
 
 Summary
 In all, summarizing the data from the visualizations, the data concludes that males had a higher tendency to use bikes when being subscribers and also during the time frame of Monday - Friday during peak times of 6 am to 9 am then 5 pm to 7 pm. With this useful information, it can help translate what this could potentially represent in another city. 
+
+https://public.tableau.com/app/profile/alex.pena/viz/CitiBikeStoryChallenge/CitiBikeStory
